@@ -2,7 +2,7 @@
 
 markdown
 <p align="center">
-  <img src="add.jpg" alt="ADLARISH Logo" width="300"/>
+  <img src="Assets\add.jpg" alt="ADLARISH Logo" width="300"/>
 </p>
 
 # 🕌 ADLARISH – Ethical Islamic Ad Platform

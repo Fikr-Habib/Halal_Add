@@ -1,9 +1,7 @@
 ## ✅ **Final Polished README.md for ADLARISH**
 
 markdown
-<p align="center">
-  <img src="Assets\add.jpg" alt="ADLARISH Logo" width="300"/>
-</p>
+![ADLARISH Logo](https://raw.githubusercontent.com/Fikr-Habib/Halal_Add/main/Assets/add.jpg)
 
 # 🕌 ADLARISH – Ethical Islamic Ad Platform
 
